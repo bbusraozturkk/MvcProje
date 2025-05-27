@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MvcProjeKampi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|d:\\mvcprojekampi\\mvcprojekampi\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|solutionrelative:mvcprojekampi\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|d:\\mvcprojekampi\\mvcprojekampi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|solutionrelative:mvcprojekampi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316B0F4D-E654-4A9F-A833-329ABFF2D052}|BusinessLayer\\BusinessLayer.csproj|d:\\mvcprojekampi\\businesslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316B0F4D-E654-4A9F-A833-329ABFF2D052}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFB0D84-03BF-436D-AD54-1D4CA9B61BF6}|DataAccessLayer\\DataAccessLayer.csproj|d:\\mvcprojekampi\\dataaccesslayer\\concrete\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFB0D84-03BF-436D-AD54-1D4CA9B61BF6}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1580,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MvcProjeKampi\\MvcProjeKampi\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcProjeKampi\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\MvcProjeKampi\\MvcProjeKampi\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "MvcProjeKampi\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T06:32:14.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\MvcProjeKampi\\MvcProjeKampi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MvcProjeKampi\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\MvcProjeKampi\\MvcProjeKampi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MvcProjeKampi\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T06:31:15.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\MvcProjeKampi\\DataAccessLayer\\Concrete\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\MvcProjeKampi\\DataAccessLayer\\Concrete\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Concrete\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T06:16:05.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "D:\\MvcProjeKampi\\BusinessLayer\\Concrete\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\CategoryManager.cs",
+              "ToolTip": "D:\\MvcProjeKampi\\BusinessLayer\\Concrete\\CategoryManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\CategoryManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T06:13:25.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 48,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

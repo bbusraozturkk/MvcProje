@@ -1,0 +1,17 @@
+D:\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\MvcProjeKampi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+D:\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\MvcProjeKampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
