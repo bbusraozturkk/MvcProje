@@ -15,3 +15,11 @@ D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
 D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
 D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit1.resources
+D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertitle_add.resources
+D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_imagesize.resources
+D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_WriterStatus.resources
+D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_Contentstatusadd.resources
+D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_headingstatus_add.resources
+D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_message_class.resources
+D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contact_date.resources

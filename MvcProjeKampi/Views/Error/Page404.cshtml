@@ -1,0 +1,66 @@
+﻿@{
+    ViewBag.Title = "404 - Sayfa Bulunamadı";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<style>
+    .page-404 {
+        text-align: center;
+        padding: 80px 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .page-404 h1 {
+        font-size: 120px;
+        font-weight: bold;
+        color: #ea1d25;
+        margin-bottom: 10px;
+        animation: pulse 1.5s infinite;
+    }
+
+    .page-404 h2 {
+        font-size: 32px;
+        color: #333;
+        margin-bottom: 20px;
+    }
+
+    .page-404 p {
+        font-size: 18px;
+        color: #666;
+        margin-bottom: 40px;
+    }
+
+    .page-404 a {
+        padding: 12px 28px;
+        background-color: #ea1d25;
+        color: white;
+        text-decoration: none;
+        border-radius: 25px;
+        font-size: 16px;
+        transition: 0.3s ease-in-out;
+    }
+
+    .page-404 a:hover {
+        background-color: #c8101e;
+    }
+
+    .error-icon {
+        font-size: 80px;
+        color: #ea1d25;
+        margin-bottom: 20px;
+    }
+
+    @@keyframes pulse {
+        0% { transform: scale(1); }
+        50% { transform: scale(1.05); }
+        100% { transform: scale(1); }
+    }
+</style>
+
+<div class="page-404">
+    <div class="error-icon">🚫</div>
+    <h1>404</h1>
+    <h2>Oops! Aradığın sayfa bulunamadı.</h2>
+    <p>Görünüşe göre yanlış bir bağlantı kullandınız ya da sayfa silinmiş olabilir.</p>
+    <a href="/AdminCategory/Index">Ana Sayfaya Dön</a>
+</div>

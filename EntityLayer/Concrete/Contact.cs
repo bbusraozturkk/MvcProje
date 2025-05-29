@@ -14,6 +14,7 @@ namespace EntityLayer.Concrete
 
         [StringLength(50)]
         public string UserName { get; set; }
+        public DateTime ContactDate { get; set; }
 
         [StringLength(50)]
         public string UserMail { get; set; }
