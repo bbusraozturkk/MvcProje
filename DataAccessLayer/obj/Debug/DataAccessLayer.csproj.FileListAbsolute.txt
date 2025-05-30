@@ -23,3 +23,5 @@ D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_Conten
 D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_headingstatus_add.resources
 D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_message_class.resources
 D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contact_date.resources
+D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.imagefile.resources
+D:\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.admin.resources
