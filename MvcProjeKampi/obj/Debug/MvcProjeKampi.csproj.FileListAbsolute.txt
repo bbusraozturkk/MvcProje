@@ -81,3 +81,7 @@ D:\MvcProjeKampi\MvcProjeKampi\bin\EntityFramework.xml
 D:\MvcProjeKampi\MvcProjeKampi\bin\EntityFramework.SqlServer.xml
 D:\MvcProjeKampi\MvcProjeKampi\bin\FluentValidation.dll
 D:\MvcProjeKampi\MvcProjeKampi\bin\FluentValidation.xml
+D:\MvcProjeKampi\MvcProjeKampi\bin\PagedList.dll
+D:\MvcProjeKampi\MvcProjeKampi\bin\PagedList.Mvc.dll
+D:\MvcProjeKampi\MvcProjeKampi\bin\PagedList.xml
+D:\MvcProjeKampi\MvcProjeKampi\bin\PagedList.Mvc.xml

@@ -3,40 +3,24 @@
   "WorkspaceRootPath": "D:\\MvcProjeKampi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|d:\\mvcprojekampi\\mvcprojekampi\\controllers\\writerpanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|solutionrelative:mvcprojekampi\\controllers\\writerpanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|d:\\mvcprojekampi\\mvcprojekampi\\controllers\\headingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|solutionrelative:mvcprojekampi\\controllers\\headingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|d:\\mvcprojekampi\\mvcprojekampi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|solutionrelative:mvcprojekampi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|d:\\mvcprojekampi\\mvcprojekampi\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|solutionrelative:mvcprojekampi\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|d:\\mvcprojekampi\\mvcprojekampi\\controllers\\writerpanelcontentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|solutionrelative:mvcprojekampi\\controllers\\writerpanelcontentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|D:\\MvcProjeKampi\\mvcprojekampi\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|solutionrelative:mvcprojekampi\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{316B0F4D-E654-4A9F-A833-329ABFF2D052}|BusinessLayer\\BusinessLayer.csproj|d:\\mvcprojekampi\\businesslayer\\concrete\\headingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316B0F4D-E654-4A9F-A833-329ABFF2D052}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\headingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|D:\\MvcProjeKampi\\mvcprojekampi\\adminlte-3.0.4\\web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|solutionrelative:mvcprojekampi\\adminlte-3.0.4\\web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{316B0F4D-E654-4A9F-A833-329ABFF2D052}|BusinessLayer\\BusinessLayer.csproj|d:\\mvcprojekampi\\businesslayer\\abstract\\iheadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316B0F4D-E654-4A9F-A833-329ABFF2D052}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\iheadingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|d:\\mvcprojekampi\\mvcprojekampi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|solutionrelative:mvcprojekampi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|d:\\mvcprojekampi\\mvcprojekampi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|solutionrelative:mvcprojekampi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{316B0F4D-E654-4A9F-A833-329ABFF2D052}|BusinessLayer\\BusinessLayer.csproj|d:\\mvcprojekampi\\businesslayer\\concrete\\contentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316B0F4D-E654-4A9F-A833-329ABFF2D052}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\contentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{316B0F4D-E654-4A9F-A833-329ABFF2D052}|BusinessLayer\\BusinessLayer.csproj|d:\\mvcprojekampi\\businesslayer\\abstract\\icontentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316B0F4D-E654-4A9F-A833-329ABFF2D052}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\icontentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|D:\\MvcProjeKampi\\mvcprojekampi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DE8E4D-89B2-4FD5-8985-72387DE3F93E}|MvcProjeKampi\\MvcProjeKampi.csproj|solutionrelative:mvcprojekampi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1580,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\MvcProjeKampi\\MvcProjeKampi\\Web.config",
-              "RelativeDocumentMoniker": "MvcProjeKampi\\Web.config",
-              "ToolTip": "D:\\MvcProjeKampi\\MvcProjeKampi\\Web.config",
-              "RelativeToolTip": "MvcProjeKampi\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-05-30T13:27:46.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WriterPanelController.cs",
-              "DocumentMoniker": "D:\\MvcProjeKampi\\MvcProjeKampi\\Controllers\\WriterPanelController.cs",
-              "RelativeDocumentMoniker": "MvcProjeKampi\\Controllers\\WriterPanelController.cs",
-              "ToolTip": "D:\\MvcProjeKampi\\MvcProjeKampi\\Controllers\\WriterPanelController.cs",
-              "RelativeToolTip": "MvcProjeKampi\\Controllers\\WriterPanelController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T13:24:33.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HeadingManager.cs",
-              "DocumentMoniker": "D:\\MvcProjeKampi\\BusinessLayer\\Concrete\\HeadingManager.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\HeadingManager.cs",
-              "ToolTip": "D:\\MvcProjeKampi\\BusinessLayer\\Concrete\\HeadingManager.cs",
-              "RelativeToolTip": "BusinessLayer\\Concrete\\HeadingManager.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB4AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T13:21:59.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IHeadingService.cs",
-              "DocumentMoniker": "D:\\MvcProjeKampi\\BusinessLayer\\Abstract\\IHeadingService.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IHeadingService.cs",
-              "ToolTip": "D:\\MvcProjeKampi\\BusinessLayer\\Abstract\\IHeadingService.cs",
-              "RelativeToolTip": "BusinessLayer\\Abstract\\IHeadingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T13:21:22.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "D:\\MvcProjeKampi\\MvcProjeKampi\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "MvcProjeKampi\\Controllers\\LoginController.cs",
-              "ToolTip": "D:\\MvcProjeKampi\\MvcProjeKampi\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "MvcProjeKampi\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T13:12:17.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "D:\\MvcProjeKampi\\MvcProjeKampi\\Global.asax.cs",
-              "RelativeDocumentMoniker": "MvcProjeKampi\\Global.asax.cs",
-              "ToolTip": "D:\\MvcProjeKampi\\MvcProjeKampi\\Global.asax.cs",
-              "RelativeToolTip": "MvcProjeKampi\\Global.asax.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T13:07:35.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WriterPanelContentController.cs",
-              "DocumentMoniker": "D:\\MvcProjeKampi\\MvcProjeKampi\\Controllers\\WriterPanelContentController.cs",
-              "RelativeDocumentMoniker": "MvcProjeKampi\\Controllers\\WriterPanelContentController.cs",
-              "ToolTip": "D:\\MvcProjeKampi\\MvcProjeKampi\\Controllers\\WriterPanelContentController.cs",
-              "RelativeToolTip": "MvcProjeKampi\\Controllers\\WriterPanelContentController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T12:21:01.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ContentManager.cs",
-              "DocumentMoniker": "D:\\MvcProjeKampi\\BusinessLayer\\Concrete\\ContentManager.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\ContentManager.cs",
-              "ToolTip": "D:\\MvcProjeKampi\\BusinessLayer\\Concrete\\ContentManager.cs",
-              "RelativeToolTip": "BusinessLayer\\Concrete\\ContentManager.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDQAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T12:18:48.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IContentService.cs",
-              "DocumentMoniker": "D:\\MvcProjeKampi\\BusinessLayer\\Abstract\\IContentService.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IContentService.cs",
-              "ToolTip": "D:\\MvcProjeKampi\\BusinessLayer\\Abstract\\IContentService.cs",
-              "RelativeToolTip": "BusinessLayer\\Abstract\\IContentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T12:18:08.92Z",
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\MvcProjeKampi\\MvcProjeKampi\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "MvcProjeKampi\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\MvcProjeKampi\\MvcProjeKampi\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "MvcProjeKampi\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAJoAAAAAAAAAAADgv6kAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T09:25:06.006Z",
               "EditorCaption": ""
             },
             {
@@ -172,6 +52,56 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeadingController.cs",
+              "DocumentMoniker": "D:\\MvcProjeKampi\\MvcProjeKampi\\Controllers\\HeadingController.cs",
+              "RelativeDocumentMoniker": "MvcProjeKampi\\Controllers\\HeadingController.cs",
+              "ToolTip": "D:\\MvcProjeKampi\\MvcProjeKampi\\Controllers\\HeadingController.cs",
+              "RelativeToolTip": "MvcProjeKampi\\Controllers\\HeadingController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwC8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T17:51:35.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\MvcProjeKampi\\MvcProjeKampi\\AdminLTE-3.0.4\\web\\index.html",
+              "RelativeDocumentMoniker": "MvcProjeKampi\\AdminLTE-3.0.4\\web\\index.html",
+              "ToolTip": "D:\\MvcProjeKampi\\MvcProjeKampi\\AdminLTE-3.0.4\\web\\index.html",
+              "RelativeToolTip": "MvcProjeKampi\\AdminLTE-3.0.4\\web\\index.html",
+              "ViewState": "AgIAAKMDAAAAAAAAAAAqwLQDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-06T13:26:44.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.cshtml",
+              "DocumentMoniker": "D:\\MvcProjeKampi\\MvcProjeKampi\\Views\\Home\\HomePage.cshtml",
+              "RelativeDocumentMoniker": "MvcProjeKampi\\Views\\Home\\HomePage.cshtml",
+              "ToolTip": "D:\\MvcProjeKampi\\MvcProjeKampi\\Views\\Home\\HomePage.cshtml",
+              "RelativeToolTip": "MvcProjeKampi\\Views\\Home\\HomePage.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAADgv10AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T13:22:28.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MvcProjeKampi\\MvcProjeKampi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcProjeKampi\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MvcProjeKampi\\MvcProjeKampi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcProjeKampi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T13:21:31.584Z"
             }
           ]
         },
@@ -202,6 +132,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             }
           ]
         }
